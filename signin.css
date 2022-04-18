@@ -133,3 +133,28 @@ margin-left: 9%;
     
 
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+  }
+  
+  li {
+    float: right;
+    font-size: 20px;
+    display: inline;
+    margin-right: 3%;
+    
+
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
+  }
